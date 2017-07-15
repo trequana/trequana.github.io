@@ -9,9 +9,30 @@ h1{
 	color: white;
 	
 }
+h2{
+	font-size: 32px;
+}
+h3{
+	font-size: 23px;
+}
 a{
 	color: white;
 	font-size: 18px;
+}
+p{
+	font-size: 14px;
+}
+.copyrightLinks{
+	text-align: left;
+	background-color: dimgray;
+}
+#copyrightBroadway{
+	font-size: 11px;
+	color: white;
+}
+#specialHeader{
+	font-size: 23px;
+	color: white;
 }
 
 .backgroundImage{
